@@ -1,4 +1,4 @@
-title: Romantick
+title: the romanticks
 baseurl: /
 permalink: '/:title/'
 layout_style: list
@@ -6,7 +6,7 @@ palette: green
 header:
   has_nav: true
   logo_img: ''
-  title: Romantick
+  title: the romanticks
 footer:
   content: '&copy; All rights reserved. rtest'
   has_social: true
