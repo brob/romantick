@@ -8,7 +8,7 @@ header:
   logo_img: ''
   title: Romantick
 footer:
-  content: '&copy; All rights reserved.'
+  content: '&copy; All rights reserved. rtest'
   has_social: true
   links:
     - new_window: true
