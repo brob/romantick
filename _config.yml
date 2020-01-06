@@ -2,7 +2,7 @@ title: the romanticks
 baseurl: /
 permalink: '/:title/'
 layout_style: list
-palette: green
+palette: red
 header:
   has_nav: true
   logo_img: ''
