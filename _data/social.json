@@ -11,24 +11,6 @@
       "title": "instagram",
       "icon": "fa-instagram",
       "url": "https://www.instagram.com/romantickmagick"
-    },
-    {
-      "type": "github",
-      "title": "GitHub",
-      "icon": "fa-github",
-      "url": "https://github.com/"
-    },
-    {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
-    },
-    {
-      "type": "devto",
-      "title": "DEV",
-      "icon": "fa-dev",
-      "url": "https://dev.to/"
     }
   ]
 }
