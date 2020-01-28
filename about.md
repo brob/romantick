@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: about us
 subtitle: ''
 img_path: ''
 menus:
