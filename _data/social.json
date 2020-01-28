@@ -1,12 +1,6 @@
 {
   "links": [
     {
-      "type": "twitter",
-      "title": "Twitter",
-      "icon": "fa-twitter",
-      "url": "https://twitter.com/"
-    },
-    {
       "type": "instagram",
       "title": "instagram",
       "icon": "fa-instagram",
