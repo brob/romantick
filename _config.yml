@@ -12,7 +12,7 @@ footer:
   has_social: true
   links:
     - new_window: true
-      text: Made with Stackbit
+      text: made with stackbit
       url: 'https://www.stackbit.com'
 sass:
   indentWidth: 4
