@@ -253,6 +253,7 @@ collections:
                     required: false
                     hint: Position for sorting
                     valueType: int
+                    default: 0
                   - widget: string
                     name: identifier
                     label: Identifier
@@ -310,6 +311,7 @@ collections:
                     required: false
                     hint: Position for sorting
                     valueType: int
+                    default: 0
                   - widget: string
                     name: identifier
                     label: Identifier
@@ -372,6 +374,7 @@ collections:
                 required: false
                 hint: Position for sorting
                 valueType: int
+                default: 0
               - widget: string
                 name: identifier
                 label: Identifier
@@ -451,6 +454,7 @@ collections:
                 required: false
                 hint: Position for sorting
                 valueType: int
+                default: 0
               - widget: string
                 name: identifier
                 label: Identifier
@@ -530,3 +534,4 @@ collections:
                 required: false
                 hint: Position for sorting
                 valueType: int
+                default: 0
