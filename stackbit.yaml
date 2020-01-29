@@ -540,6 +540,7 @@ models:
         name: weight
         label: Weight
         description: Position for sorting
+        valueType: int
       - type: string
         name: identifier
         label: Identifier
