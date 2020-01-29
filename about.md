@@ -5,7 +5,7 @@ img_path: ''
 menus:
   main:
     title: ''
-    weight: 0
+    weight: ''
 layout: page
 ---
 ### **emily robinson**
