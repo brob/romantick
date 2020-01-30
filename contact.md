@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: get in touch with us
 img_path: ''
 menus:
   main:
