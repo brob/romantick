@@ -9,7 +9,7 @@ header:
   title: the romanticks
 footer:
   content: '&copy; All rights reserved.'
-  has_social: true
+  has_social: false
   links:
     - new_window: true
       text: made with stackbit
