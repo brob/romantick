@@ -6,3 +6,7 @@ main:
     title: the romantick system
     url: /the-romantick-system
     weight: 0
+  - identifier: about
+    title: about us
+    url: /about
+    weight: 0
