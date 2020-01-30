@@ -2,6 +2,9 @@
 title: the romantick system
 subtitle: 'powered by magick, rooted in love'
 img_path: ''
+menus:
+  main:
+    weight: 0
 layout: page
 ---
 loving is one of the easiest things you’ll ever do. it’s also one of the hardest. when we met, both of us were struggling with love. we were trying to pour it out into the world without having nearly enough for ourselves or knowing how to ask for it from the people in our lives. when we began talking about magick and the idea of working together, we knew we wanted our practice to be powerful and honest, and that transparency was a must. it seemed clear, then, that love should be at the center of our work.
