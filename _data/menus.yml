@@ -2,6 +2,7 @@ main:
   - identifier: instagram
     title: instagram
     url: 'https://instagram.com/romantickmagick'
+    weight: 0
   - identifier: system
     title: the romantick system
     url: /the-romantick-system
