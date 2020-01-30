@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Learn More
-        url: /about
+  - actions: []
     component: intro.html
     content: 'powered by magick, rooted in love'
     section_id: intro
