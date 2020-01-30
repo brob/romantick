@@ -8,7 +8,7 @@ header:
   logo_img: ''
   title: the romanticks
 footer:
-  content: '&copy; All rights reserved. rtest'
+  content: '&copy; All rights reserved.'
   has_social: true
   links:
     - new_window: true
