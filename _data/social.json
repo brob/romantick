@@ -5,6 +5,11 @@
       "title": "instagram",
       "icon": "fa-instagram",
       "url": "https://www.instagram.com/romantickmagick"
+    },
+    {
+      "title": "youtube",
+      "icon": "fa-youtube",
+      "url": "https://www.youtube.com/channel/UCePeg2T5LMMZtVaCl9lNwwg"
     }
   ]
 }
