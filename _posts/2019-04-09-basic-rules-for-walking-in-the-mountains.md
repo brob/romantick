@@ -1,6 +1,6 @@
 ---
-title: Basic Rules For Walking In The Mountains
-date: '2019-04-09'
+title: 'welcome in, romanticks'
+date: 2020-01-29T06:00:00.000Z
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
 excerpt: >-
