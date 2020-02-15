@@ -11,3 +11,7 @@ main:
     title: about us
     url: /about
     weight: 0
+  - identifier: 'etsy '
+    title: shop
+    url: 'https://www.etsy.com/shop/Romanticks'
+    weight: 0
