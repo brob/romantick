@@ -18,6 +18,6 @@ below you will find some of the rituals and activities we carried out as we deve
 * choosing a star // finding connection in the heavens
 * our alphabet
 
-we appreciate your support and interest in romantick. If you have questions, please feel free to email us at sucharomantick@gmail.com or DM us on instagram: [@romantickmagick.](http://www.instagram.com/romantickmagick)
+we appreciate your support and interest in romantick. If you have questions, please feel free to email us at [sucharomantick@gmail.com](mailto:sucharomantick@gmail.com) or DM us on instagram: [@romantickmagick.](http://www.instagram.com/romantickmagick)
 
 ![hands held with red bracelets](/images/IMG_0934-2.JPG "red bracelets")
