@@ -14,9 +14,14 @@ the rituals we perform are intended to both inspire outwardly and build inwardly
 
 below you will find some of the practices and experiences we had as we developed romantick. we hope you will be inspired by this guide to create rituals and practices of your own.
 
-* the moon ritual // welcoming into the circle
-* choosing a star // finding connection in the heavens
+* the moon ritual /// welcoming into the circle
+* choosing a star /// finding connection in the heavens
+* creating magical names
+* numbers and counting
+* building our magical place
 * our alphabet
+* poetry
+* care packages
 
 we appreciate your support and interest in romantick. If you have questions, please feel free to email us at [sucharomantick@gmail.com](mailto:sucharomantick@gmail.com) or DM us on instagram: [@romantickmagick.](http://www.instagram.com/romantickmagick)
 
