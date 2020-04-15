@@ -8,6 +8,7 @@ excerpt: I like to say a wizard found me wandering in the woods. He held up his
 menus:
   main:
     weight: 0
+    identifier: ""
 layout: post
 ---
 I like to say a wizard found me wandering in the woods. He held up his lantern. He showed me a new path. It was the path home. He took my hand and led the way.
