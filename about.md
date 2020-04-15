@@ -1,16 +1,16 @@
 ---
 title: about us
-subtitle: ''
-img_path: ''
+subtitle: ""
+img_path: ""
 menus:
   main:
-    title: ''
+    title: ""
     weight: 0
 layout: page
 ---
 **emily robinson**
 
-emily robinson is a magazine editor, writer, singer, and artist based in memphis, tennessee. while growing up in michigan, she developed a deep appreciation for nature, particularly woods and water. in her career, she works for a large wetlands conservation nonprofit. after meeting jeffrey in may 2019, she began exploring in earnest the worlds of druidry, art, and magick. next to becoming a mother in 2015, this is her most exciting adventure yet. follow her on Instagram: @[lemonslush](http://Instagram.com/lemonslush). 
+emily robinson is an editor, writer, singer, and artist based in memphis, tennessee. while growing up in michigan, she developed a deep appreciation for nature, particularly woods and water. in her career, she works for a large wetlands conservation nonprofit. after meeting jeffrey in may 2019, she began exploring in earnest the worlds of druidry, art, and magick. next to becoming a mother in 2015, this is her most exciting adventure yet. follow her on Instagram: @[lemonslush](http://Instagram.com/lemonslush). 
 
 **jeffrey bowman**
 
