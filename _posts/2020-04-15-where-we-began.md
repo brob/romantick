@@ -1,6 +1,7 @@
 ---
 title: where we began
 date: 2020-04-15T13:41:59.758Z
+thumb_img_path: /images/img_4112_resized.jpg
 menus:
   main:
     weight: 0
