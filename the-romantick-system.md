@@ -12,6 +12,11 @@ so, we set forth to create an artistic system that encourages the audience to lo
 
 the rituals we perform are intended to both inspire outwardly and build inwardly, guiding our medium to a level far greater than we could achieve alone. we are writing a romantic story for the audience to get lost in. we encourage you to take what we’ve created and further develop it based on our intentions. and, above all, make it romantick.
 
-please consider this blog your guide to the romantick system and our partnership. we hope you will use it to follow our exploration and travels and let it be a map for your own. we appreciate your support and interest. If you have questions, please feel free to direct them to us via email at sucharomantick -at- gmail -dot- com or DM us on instagram [@romantickmagick.](http://www.instagram.com/romantickmagick)
+* the moon ritual // welcoming into the circle
+* choosing a star // finding connection in the heavens
+* our alphabet
+
+
+we hope you will use it to follow our exploration and travels and let it be a map for your own. we appreciate your support and interest. If you have questions, please feel free to direct them to us via email at sucharomantick -at- gmail -dot- com or DM us on instagram [@romantickmagick.](http://www.instagram.com/romantickmagick)
 
 ![hands held with red bracelets](/images/IMG_0934-2.JPG "red bracelets")
