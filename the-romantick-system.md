@@ -1,7 +1,7 @@
 ---
 title: the romantick system
-subtitle: 'powered by magick, rooted in love'
-img_path: ''
+subtitle: powered by magick, rooted in love
+img_path: ""
 layout: page
 ---
 loving is one of the easiest things you’ll ever do. it’s also one of the hardest. when we met, both of us were struggling with love. we were trying to pour it out into the world without having nearly enough for ourselves or knowing how to ask for it from the people in our lives. when we began talking about magick and the idea of working together, we knew we wanted our practice to be powerful and honest, and that transparency was a must. it seemed clear, then, that love should be at the center of our work.
@@ -14,4 +14,4 @@ the rituals we perform are intended to both inspire outwardly and build inwardly
 
 please consider this blog your guide to the romantick system and our partnership. we hope you will use it to follow our exploration and travels and let it be a map for your own. we appreciate your support and interest. If you have questions, please feel free to direct them to us via email at sucharomantick -at- gmail -dot- com or DM us on instagram [@romantickmagick.](http://www.instagram.com/romantickmagick)
 
-![](/images/IMG_4112-2.JPG)
+![hands held with red bracelets](/images/IMG_0934-2.JPG "red bracelets")
