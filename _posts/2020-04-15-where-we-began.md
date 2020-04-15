@@ -37,4 +37,4 @@ I remember the day Jeffrey told me he was a wizard. He had crafted this powerful
 
 The posts that follow are meant to be a framework. The idea behind romantick is not that it is a magical system, meant to be followed to the letter, but that it is a lens through which we should view the entirety of our lives. Mindfulness, awareness, creativity, and love are at its core. We encourage you to approach every relationship, every creative endeavor, every part of your life with all these things in mind. It is through these beautiful principles that we believe you will find the deepest of connections, fulfillment, joy, and peace. May you be blessed. /|\
 
-Please reach out to us with any questions at [sucharomantick@gmail.com](mailto:sucharomantick@gmail.com).
+Please reach out to us with any questions at [sucharomantick@gmail.com](mailto:sucharomantick@gmail.com) or on instagram: [@romantickmagick](http://www.instagram.com/romantickmagick).
