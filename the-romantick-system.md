@@ -34,6 +34,6 @@ below you will find some of the practices and experiences (in bold) we had as we
 * poetry
 * sigils
 
-we appreciate your support and interest in romantick. If you have questions, please feel free to email us at [sucharomantick@gmail.com](mailto:sucharomantick@gmail.com) or DM us on instagram: [@romantickmagick.](http://www.instagram.com/romantickmagick)
+we appreciate your support and your interest in romantick. If you have questions, please feel free to email us at [sucharomantick@gmail.com](mailto:sucharomantick@gmail.com) or DM us on instagram: [@romantickmagick.](http://www.instagram.com/romantickmagick)
 
 ![hands held with red bracelets](/images/IMG_0934-2.JPG "red bracelets")
