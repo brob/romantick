@@ -12,15 +12,18 @@ so, we set forth to create an artistic system that encourages the audience to lo
 
 the rituals we perform are intended to both inspire outwardly and build inwardly, guiding our medium to a level far greater than we could achieve alone. we are writing a romantic story for the audience to get lost in. we encourage you to take what we’ve created and further develop it based on our intentions. and, above all, make it romantick.
 
-below you will find some of the practices and experiences we had as we developed romantick. we hope you will be inspired by this guide to create rituals and practices of your own.
+below you will find some of the practices and experiences (in bold) we had as we developed romantick. we hope you will be inspired by this guide to create rituals and practices of your own.
 
-* the moon ritual /// welcoming into the circle
+* **the moon ritual /// welcoming into the circle**
 * choosing a star /// finding connection in the heavens
 * creating magical names
+* **the dark forest**
 * numbers and counting
 * building our magical place
+* **9 positions**
 * our alphabet
 * poetry
+* reverence for nature
 * sharing creativity
 
   * care packages
@@ -29,8 +32,6 @@ below you will find some of the practices and experiences we had as we developed
   * bracelets
   * leather bags
   * crystals
-
-* reverence for nature
 
 we appreciate your support and interest in romantick. If you have questions, please feel free to email us at [sucharomantick@gmail.com](mailto:sucharomantick@gmail.com) or DM us on instagram: [@romantickmagick.](http://www.instagram.com/romantickmagick)
 
