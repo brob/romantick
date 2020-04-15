@@ -15,7 +15,7 @@ I felt anything but strong, but I told him I’d consider it.
 
 First, however, I had questions. Who was he? Where did his inspiration come from? What he did he believe? What was his story? As a journalist, I had to have these answers before we could move forward.
 
-![steepled hands](/images/img_4112_resized.jpg "steepled hands")
+![steepled hands](/images/img_4112_preview.jpg "steepled hands")
 
 What began as a simple Instagram conversation quickly grew into a rapid-fire bearing of hearts and minds. We were nothing alike on paper, yet we immediately felt a deep connection to one another that surpassed understanding.
 
