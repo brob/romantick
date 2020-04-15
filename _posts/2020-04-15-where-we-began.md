@@ -9,7 +9,7 @@ layout: post
 ---
 I like to say a wizard found me wandering in the woods. He held up his lantern. He showed me a new path. It was the path home. He took my hand and led the way.
 
-It was May 2019 and I was busy making mistakes in my life. The only thing that felt right was my physical fitness, an aspect that led Jeffrey to contact me about using me as a model in his art. I was strong, he said, and would make a great subject for a painting.
+It was May 2019 and I was busy making mistakes in my life. The only thing that felt right was my physical fitness, an aspect that led Jeffrey to contact me about using me as a model in [his art](http://www.bowmanism.com). I was strong, he said, and would make a great subject for a painting.
 
 I felt anything but strong, but I told him I’d consider it.
 
@@ -23,7 +23,7 @@ The first several months of our friendship unfolded quickly. We marked the 29th 
 
 ![dirty hands](/images/img_3820_preview.jpg "dirty hands")
 
-Over those meetings and many hours on the phone, we came up with the idea for romantick. Then we changed it, about a thousand times. But no matter how the details changed, the heart of it remained the same: romantick is a way to approach all aspects of life. Whether you are using it with a partner or friend or on your own. Whatever your beliefs or spiritual practices. Whatever your job or lifestyle. Romantick is a lens of mindfulness, intention, creativity, and love. What we have done in building it may resonate deeply with you, but it also may not. Our hope is that you will take it and make it your own.
+Over those meetings and many hours on the phone, we came up with the idea for [romantick](https://romantick.netlify.com/the-romantick-system). Then we changed it, about a thousand times. But no matter how the details changed, the heart of it remained the same: romantick is a way to approach all aspects of life. Whether you are using it with a partner or friend or on your own. Whatever your beliefs or spiritual practices. Whatever your job or lifestyle. Romantick is a lens of mindfulness, intention, creativity, and love. What we have done in building it may resonate deeply with you, but it also may not. Our hope is that you will take it and make it your own.
 
 As I write this, Jeffrey and I are days away from celebrating 11 months of knowing one another. We are best friends, magical partners. Working together to build a business, to help others. Crafting a magical practice that we can all use to better our lives. In less than a year we have been through some intense trials. We have very nearly fallen apart. But neither of us has given up because we know our calling is bigger than any conflict.
 
@@ -35,6 +35,6 @@ I remember the day Jeffrey told me he was a wizard. He had crafted this powerful
 
 ### **disclaimer**
 
-The posts that follow are meant to be a framework. The idea behind romantick is not that it is a magical system, meant to be followed to the letter, but that it is a lens through which we should view the entirety of our lives. Mindfulness, awareness, creativity, and love are at its core. We encourage you to approach every relationship, every creative endeavor, every part of your life with all these things in mind. It is through these beautiful principles that we believe you will find the deepest of connections, fulfillment, joy, and peace. May you be blessed. /|\
+The posts that follow are meant to be a framework. The idea behind [romantick](https://romantick.netlify.com/the-romantick-system) is not that it is a magical system, meant to be followed to the letter, but that it is a lens through which we should view the entirety of our lives. Mindfulness, awareness, creativity, and love are at its core. We encourage you to approach every relationship, every creative endeavor, every part of your life with all these things in mind. It is through these beautiful principles that we believe you will find the deepest of connections, fulfillment, joy, and peace. May you be blessed. /|\
 
 Please reach out to us with any questions at [sucharomantick@gmail.com](mailto:sucharomantick@gmail.com) or on instagram: [@romantickmagick](http://www.instagram.com/romantickmagick).
