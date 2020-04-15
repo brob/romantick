@@ -25,7 +25,7 @@ Over those meetings and many hours on the phone, we came up with the idea for ro
 
 As I write this, Jeffrey and I are days away from celebrating 11 months of knowing one another. We are best friends, magical partners. Working together to build a business, to help others. Crafting a magical practice that we can all use to better our lives. In less than a year we have been through some intense trials. We have very nearly fallen apart. But neither of us has given up because we know our calling is bigger than any conflict.
 
-<p align="center">\\\\*\\\\*\*\</p>
+<p align="center">/|\</p>
 
 I remember the day Jeffrey told me he was a wizard. He had crafted this powerful character to rise above many years of pain and darkness, to explore the adventure of life. It was one that made him giggle too, a key component of his beliefs and outlook. He has often told me, “If you can’t laugh at your spirituality, you’re doing it wrong.” We have applied the same principle to romantick. There will be elements that seem childish or silly, and that’s just what they’re meant to be. We believe that life is a game. You win when you can laugh at yourself. When you can find joy in even the grimmest circumstances. When you can forge a friendship out of thin air. When you can hold on strongly to love even in your weakest moments. Carve out your own path on this romantick journey. We are but your humble guides.
 
