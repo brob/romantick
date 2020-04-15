@@ -1,7 +1,7 @@
 ---
 title: where we began
 date: 2020-04-15T13:41:59.758Z
-thumb_img_path: /images/img_4112_preview.jpg
+thumb_img_path: /images/img_4112_resized.jpg
 excerpt: I like to say a wizard found me wandering in the woods. He held up his
   lantern. He showed me a new path. It was the path home. He took my hand and
   led the way.
