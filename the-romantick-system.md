@@ -17,13 +17,6 @@ below you will find some of the practices and experiences (in bold) we had as we
 * **the moon ritual /// welcoming into the circle**
 * choosing a star /// finding connection in the heavens
 * creating magical names
-* **the dark forest**
-* numbers and counting
-* building our magical place
-* **9 positions**
-* our alphabet
-* poetry
-* reverence for nature
 * sharing creativity
   * care packages
   * oils
@@ -31,6 +24,15 @@ below you will find some of the practices and experiences (in bold) we had as we
   * bracelets
   * leather bags
   * crystals
+* reverence for nature
+* **the dark forest**
+* numbers and counting
+* building our magical place
+* **9 positions**
+* our alphabet
+* colors
+* poetry
+* sigils
 
 we appreciate your support and interest in romantick. If you have questions, please feel free to email us at [sucharomantick@gmail.com](mailto:sucharomantick@gmail.com) or DM us on instagram: [@romantickmagick.](http://www.instagram.com/romantickmagick)
 
