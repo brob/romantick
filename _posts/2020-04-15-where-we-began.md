@@ -7,7 +7,7 @@ excerpt: I like to say a wizard found me wandering in the woods. He held up his
   led the way.
 menus:
   main:
-    weight: ""
+    weight: 0
     identifier: ""
 layout: post
 ---
