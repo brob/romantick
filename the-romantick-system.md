@@ -25,7 +25,6 @@ below you will find some of the practices and experiences (in bold) we had as we
 * poetry
 * reverence for nature
 * sharing creativity
-
   * care packages
   * oils
   * totems
