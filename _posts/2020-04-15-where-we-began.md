@@ -21,6 +21,8 @@ What began as a simple Instagram conversation quickly grew into a rapid-fire bea
 
 The first several months of our friendship unfolded quickly. We marked the 29th of each month as our anniversary, the day of our first conversation. In that time Jeffrey introduced me to Druidry and [OBOD](http://www.druidry.org), a beautiful group that we are both members of today. We met up on road trips to create art and practice magick, he traveled cross-country to help my family hold a garage sale, and I flew up to visit him on numerous occasions.
 
+![dirty hands](/images/img_3820_preview.jpg "dirty hands")
+
 Over those meetings and many hours on the phone, we came up with the idea for romantick. Then we changed it, about a thousand times. But no matter how the details changed, the heart of it remained the same: romantick is a way to approach all aspects of life. Whether you are using it with a partner or friend or on your own. Whatever your beliefs or spiritual practices. Whatever your job or lifestyle. Romantick is a lens of mindfulness, intention, creativity, and love. What we have done in building it may resonate deeply with you, but it also may not. Our hope is that you will take it and make it your own.
 
 As I write this, Jeffrey and I are days away from celebrating 11 months of knowing one another. We are best friends, magical partners. Working together to build a business, to help others. Crafting a magical practice that we can all use to better our lives. In less than a year we have been through some intense trials. We have very nearly fallen apart. But neither of us has given up because we know our calling is bigger than any conflict.
