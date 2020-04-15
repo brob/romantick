@@ -21,7 +21,16 @@ below you will find some of the practices and experiences we had as we developed
 * building our magical place
 * our alphabet
 * poetry
-* care packages
+* sharing creativity
+
+  * care packages
+  * oils
+  * totems
+  * bracelets
+  * leather bags
+  * crystals
+
+* reverence for nature
 
 we appreciate your support and interest in romantick. If you have questions, please feel free to email us at [sucharomantick@gmail.com](mailto:sucharomantick@gmail.com) or DM us on instagram: [@romantickmagick.](http://www.instagram.com/romantickmagick)
 
