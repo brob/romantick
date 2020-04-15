@@ -31,6 +31,8 @@ As I write this, Jeffrey and I are days away from celebrating 11 months of knowi
 
 I remember the day Jeffrey told me he was a wizard. He had crafted this powerful character to rise above many years of pain and darkness, to explore the adventure of life. It was one that made him giggle too, a key component of his beliefs and outlook. He has often told me, “If you can’t laugh at your spirituality, you’re doing it wrong.” We have applied the same principle to romantick. There will be elements that seem childish or silly, and that’s just what they’re meant to be. We believe that life is a game. You win when you can laugh at yourself. When you can find joy in even the grimmest circumstances. When you can forge a friendship out of thin air. When you can hold on strongly to love even in your weakest moments. Carve out your own path on this romantick journey. We are but your humble guides.
 
+![holding hands by a tree](/images/img_2789_preview.jpg "druid friends")
+
 ### **disclaimer**
 
 The posts that follow are meant to be a framework. The idea behind romantick is not that it is a magical system, meant to be followed to the letter, but that it is a lens through which we should view the entirety of our lives. Mindfulness, awareness, creativity, and love are at its core. We encourage you to approach every relationship, every creative endeavor, every part of your life with all these things in mind. It is through these beautiful principles that we believe you will find the deepest of connections, fulfillment, joy, and peace. May you be blessed. /|\
